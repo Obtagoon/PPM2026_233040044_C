@@ -29,10 +29,10 @@ class ProfilePage extends StatefulWidget {
 
 class _ProfilePageState extends State<ProfilePage> {
   // Data Profil Utama
-  String nama = 'HAEKAL KHADAFY';
+  String nama = 'M Sufi Nadziffa R';
   String tentangSaya = 'Saat ini saya berfokus pada pengembangan dashboard keuangan klinik dan pembuatan aplikasi mobile Word Reminder.';
   String pendidikan = 'Teknik Informatika Universitas Pasundan';
-  String kontak = 'haekal@student.unpas.ac.id';
+  String kontak = 'SufiNadziffa@student.unpas.ac.id';
   String pengalamanStatis = 'Freelance Mobile Developer\nFreelance Web Developer';
   String proyek = '• Dashboard Keuangan Klinik\n• Word Reminder (Aplikasi kuis dan pengingat kosakata)';
   List<String> skills = ['Flutter', 'Laravel', 'Java', 'PHP', 'UI/UX'];
